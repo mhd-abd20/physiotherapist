@@ -59,7 +59,7 @@ Follow these steps to set up the project locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/physiotherapy-platform.git
+git clone https://github.com/mhd-abd20/physiotherapis.git
 cd physiotherapy-platform
 ```
 
@@ -80,7 +80,6 @@ DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=
 DB_NAME=physiotherapy_db
-JWT_SECRET=your_super_secret_jwt_key
 PORT=5000
 ```
 Start the backend server:
